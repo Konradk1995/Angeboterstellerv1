@@ -11,6 +11,8 @@ interface ClientFormProps {
     follow_up_date: string;
     notes: string;
   };
+  // moin 
+  
   setFormData: (data: any) => void;
 }
 
